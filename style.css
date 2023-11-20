@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background-color: #007bff;
+    color: #fff;
+    padding: 100px 0;
+}
+
+.features-section {
+    background-color: #f8f9fa;
+}
+
+.contact-section {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Sticky Footer */
+html, body {
+    height: 100%;
+}
+
+
+.body-content {
+    flex: 1 0 auto;
+}
+
+
